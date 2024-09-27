@@ -1,0 +1,70 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full height of the viewport */
+    margin: 0;
+}
+.Box{
+   
+
+    height: 70vh;
+    width: 42vh;
+    border-radius: 15px;
+    background-color: white;
+   
+}
+.image{
+    width: 37vh;
+    height: 38vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 15px;
+
+    background-color: hsl(216, 91%, 58%);
+}
+.Para{
+   
+
+  
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+   
+    font-size: 10px;
+   
+
+}
+.Para h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Para p{
+   
+
+}
+.Para p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     margin-left: 25px;
+    
+    font-size: 13px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+
+
+}
+img{
+    width: 90%;
+   
+}
